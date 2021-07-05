@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = marius.hepp@gmail.com
+	name = Marius Hepp
